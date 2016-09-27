@@ -1,0 +1,2 @@
+# htmlPage
+内嵌网页html去除重复js，以代替通过get请求网页然后append到模板页面的方式
